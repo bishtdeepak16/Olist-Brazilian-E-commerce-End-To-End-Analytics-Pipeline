@@ -1,0 +1,2 @@
+data/olist_geolocation_dataset.csv filter=lfs diff=lfs merge=lfs -text
+Olist[[:space:]]E-commerce[[:space:]]Raw[[:space:]]Data/olist_geolocation_dataset.csv filter=lfs diff=lfs merge=lfs -text
