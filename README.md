@@ -19,7 +19,6 @@ Here, intricate and complex data is transformed into straightforward, actionable
 - **python/** – Deep cleaning and enrichment: fuzzy matching,Brazalian to English translations of review titles, review categorisation by NLP
 - **powerbi_dashboards/** – Dashboards, including business findings and strategy
 - **reports/** – Insight_Report: the full story, including critical recommendations and strategies for business growth
-- **docs/** – Data dictionary and summary notes
 - **data/** – All raw data csv files
 
 ---
