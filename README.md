@@ -27,7 +27,8 @@ Here, intricate and complex data is transformed into straightforward, actionable
 ## 🗺️ Data Model Overview
 
 The project uses a star schema for clear and efficient analytics.  
-![Data Model - Star Schema](Data Model - Star Schema.png)
+![Data Model - Star Schema](Data%20Model%20-%20Star%20Schema.png)
+
 
 ---
 
