@@ -24,6 +24,13 @@ Here, intricate and complex data is transformed into straightforward, actionable
 
 ---
 
+## 🗺️ Data Model Overview
+
+The project uses a star schema for clear and efficient analytics.  
+![Olist Star Schema](Data Model - Star Schema.png)
+
+---
+
 ## 📊 Power BI Dashboards Overview
 
 - **Executive Summary**  
