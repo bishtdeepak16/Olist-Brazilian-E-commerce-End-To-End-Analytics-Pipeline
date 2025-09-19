@@ -6,14 +6,14 @@ Here, intricate and complex data is transformed into straightforward, actionable
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 - Tackle huge, messy and complex e-commerce data
 - Deliver insights that drive business action, not just reports
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 - **sql/** – Automated cleaning, schema, business SQL queries
 - **python/** – Deep cleaning and enrichment: fuzzy matching,Brazalian to English translations of review titles, review categorisation by NLP
@@ -23,7 +23,7 @@ Here, intricate and complex data is transformed into straightforward, actionable
 
 ---
 
-## 🗺️ Data Model Overview
+##  Data Model Overview
 
 The project uses a star schema for clear and efficient analytics.  
 ![Data Model - Star Schema](Data%20Model%20-%20Star%20Schema.png)
@@ -31,7 +31,7 @@ The project uses a star schema for clear and efficient analytics.
 
 ---
 
-## 📊 Power BI Dashboards Overview
+## Power BI Dashboards Overview
 
 - **Executive Summary**  
   *One-page overview of total revenue, orders, ratings, and top-performing cities and products—key for quick insights by leaders.*
@@ -53,7 +53,7 @@ The project uses a star schema for clear and efficient analytics.
 
 ---
 
-## 🔎 Executive Summary & Strategic Action (Highlights)
+## Executive Summary & Strategic Action (Highlights)
 
 ### Key Problems Identified
 - Customer retention rate is only 3%
@@ -66,7 +66,7 @@ The project uses a star schema for clear and efficient analytics.
 
 ---
 
-## 💡 Project Highlights
+## Project Highlights
 
 - **SQL pipeline:** Automated profiling, robust cleaning of >1 million records, hybrid ETL
 - **Python enrichment:** Fuzzy matching for typos, NLP review categorization, Azure review translation
@@ -74,13 +74,13 @@ The project uses a star schema for clear and efficient analytics.
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - PostgreSQL, Python (pandas, fuzzywuzzy, Azure Translator, NLP), Power BI
 
 ---
 
-## 📈 How to Use
+## How to Use
 
 - Run SQL and Python scripts in order shown
 - Explore dashboards (png/pdf), or load .pbix for deeper analytics
