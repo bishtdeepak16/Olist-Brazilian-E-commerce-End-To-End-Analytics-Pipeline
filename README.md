@@ -139,3 +139,40 @@ The project uses a star schema for clear and efficient analytics.
 <br>
 
 </div>
+
+---
+
+<div align="center">
+
+## 📑 Insight Report & Strategic Recommendations
+
+<sub>Business findings from the analysis and the strategic actions recommended to boost retention, delivery performance and sales</sub>
+
+<br><br>
+
+### 📊 Olist Insights Report
+<sub>Root business problems and key analytical findings</sub>
+
+<img src="4%20-%20Olist%20Insight%20Reports%20%26%20Strategic%20Recommendations/1%20-%20Olist%20Insights%20Report.png" width="92%" alt="Olist Insights Report">
+
+<br><br>
+
+---
+
+### 🎯 Key Problems & Strategic Recommendations · Part 1
+<sub>Critical issues identified and the first set of recommended actions</sub>
+
+<img src="4%20-%20Olist%20Insight%20Reports%20%26%20Strategic%20Recommendations/Key%20Problems%20%26%20Strategic%20Recommendations-1.png" width="92%" alt="Key Problems and Strategic Recommendations part 1">
+
+<br><br>
+
+---
+
+### 🎯 Key Problems & Strategic Recommendations · Part 2
+<sub>Remaining recommendations to improve retention, delivery and revenue</sub>
+
+<img src="4%20-%20Olist%20Insight%20Reports%20%26%20Strategic%20Recommendations/Key%20Problems%20%26%20Strategic%20Recommendations-2.png" width="92%" alt="Key Problems and Strategic Recommendations part 2">
+
+<br>
+
+</div>
